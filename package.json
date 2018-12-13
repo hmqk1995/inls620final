@@ -1,0 +1,22 @@
+{
+  "name": "inls620final",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hmqk1995/inls620final.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hmqk1995/inls620final/issues"
+  },
+  "homepage": "https://github.com/hmqk1995/inls620final#readme",
+  "devDependencies": {
+    "vue": "^2.5.17"
+  }
+}
